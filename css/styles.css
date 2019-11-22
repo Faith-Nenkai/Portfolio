@@ -19,3 +19,14 @@ li a{
 li a:hover{
   background-color: blueviolet;
 }
+#name{
+  font-size: 60px;
+  font-style: oblique;
+  font-family: fantasy;
+  text-align: center;
+}
+#dog{
+  height: 500px;
+  width: 700px;
+  padding-top: 15px;
+}
