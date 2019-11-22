@@ -20,10 +20,13 @@ li a:hover{
   background-color: blueviolet;
 }
 #name{
-  font-size: 60px;
+  font-size: 90px;
   font-style: oblique;
   font-family: fantasy;
   text-align: center;
+  float: right;
+  padding-right: 20px;
+  padding-top: 200px;
 }
 #dog{
   height: 500px;
