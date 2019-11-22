@@ -55,3 +55,6 @@ h2{
 .project a{
   text-decoration: none;
 }
+.project a:hover{
+  color: aquamarine;
+}
