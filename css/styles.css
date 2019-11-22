@@ -42,3 +42,9 @@ li a:hover{
   float: right;
   display: table-cell;
 }
+#Aboutme p{
+  color:black;
+}
+h2{
+  color:purple;
+}
