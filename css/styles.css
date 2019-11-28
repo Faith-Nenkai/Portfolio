@@ -35,16 +35,16 @@ li a:hover{
 }
 .project{
   display:table;
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: 'Baskervville', serif;
 }
 .image{
   height: 250px;
   width:250px;
   display: table-cell;
-}
-.description{
-  float: right;
-  display: table-cell;
-  font-size: 20px;
+  float: left;
+  padding-right: 40px;
 }
 #Aboutme p{
   color:black;
